@@ -1,5 +1,6 @@
 ## Mywatt NAVER Blog : [LINK][naverLink]
-
+## Mywatt Tistroy Blog : [LINK][tistory]
+## Mywatt Youtube : [LINK][youtube]
 ---
 
 <br />
@@ -27,6 +28,8 @@
 
 
 [naverLink]: https://blog.naver.com/padamu1
+[tistory]: https://pamechanic.tistory.com/
+[youtube]: https://www.youtube.com/channel/UCbYFX84E_7M1N-NJsF6zBGg/featured
 [canvasLink]:https://blog.naver.com/padamu1/222602959312
 [lifeLink]:https://blog.naver.com/padamu1/222606713864
 [connectLink]:https://blog.naver.com/padamu1/222612976964
