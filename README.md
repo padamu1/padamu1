@@ -17,7 +17,10 @@
 #### First Demo (2022-01-17) : https://mywatt.itch.io/simuldrone
 ##### Mainly used program language : C#, JavaScript(Node.js)
 
+<br/>
+
 #### Solo Project - C++ Tetris
+#### 2022-01-20 ~
 ##### Mainly used program language : C++
 ---
 
