@@ -15,7 +15,7 @@
 
 #### 2021-12-27 ~   
 #### First Demo (2022-01-17) : https://mywatt.itch.io/simuldrone
-#### First Official Release (2022-02-15) : https://store.steampowered.com/app/1892500/SimulDrone/
+#### First Official Release (2022-02-18) : https://store.steampowered.com/app/1892500/SimulDrone/
 ##### Mainly used program language : C#, Unity3D
 
 <br/>
