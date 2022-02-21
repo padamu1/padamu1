@@ -21,8 +21,14 @@
 
 <br/>
 
+#### Solo Project - Unity3D - 2Dgame
+#### 2022-02-21 ~
+#### Mainly used program language : C#, Unity3D
+
+<br/>
+
 #### Solo Project - C++ Tetris
-#### 2022-01-20 ~
+#### Start at march
 ##### Mainly used program language : C++
 ---
 
