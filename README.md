@@ -1,4 +1,4 @@
-## Mywatt NAVER Blog : [LINK][naverLink]
+## 💬 Mywatt NAVER Blog : [LINK][naverLink]
 ## Mywatt Tistroy Blog : [LINK][tistory]
 ## Mywatt Youtube : [LINK][youtube]
 ---
@@ -32,7 +32,7 @@
 ##### Mainly used program language : C++
 ---
 
-### Unity3D Study Link
+### Unity3D Study Link 🔭
 * Canvas Manage : [Link][canvasLink] 
 * Life Cycle : [Link][lifeLink]
 * Object Connect : [Link][connectLink]
