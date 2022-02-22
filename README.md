@@ -1,6 +1,6 @@
-## 💬 Mywatt NAVER Blog : [LINK][naverLink]
-## Mywatt Tistroy Blog : [LINK][tistory]
-## Mywatt Youtube : [LINK][youtube]
+### 💬 Mywatt NAVER Blog : [LINK][naverLink]
+### Mywatt Tistroy Blog : [LINK][tistory]
+### Mywatt Youtube : [LINK][youtube]
 ---
 
 <br />
