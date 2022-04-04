@@ -1,11 +1,3 @@
-### 💬💬
-### Mywatt NAVER Blog : [LINK][naverLink]
-### Mywatt Tistroy Blog : [LINK][tistory]
-### Mywatt Youtube : [LINK][youtube]
----
-
-<br />
-
 🌱 now Learning : Unity3D (C#) / upcoming : UnrealEngine (C++)    
 
 👯 Unity3D (C#) 3D Game project ( Group of 2 ) 
@@ -43,8 +35,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padamu1&show_icons=true&theme=white)
 
+<br />
 
+### 💬💬
+### Mywatt NAVER Blog : [LINK][naverLink]
+### Mywatt Tistroy Blog : [LINK][tistory]
+### Mywatt Youtube : [LINK][youtube]
+---
 
+<br />
 
 
 
