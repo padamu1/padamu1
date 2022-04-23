@@ -1,10 +1,10 @@
-🌱 now Learning : Unity3D (C#) / upcoming : UnrealEngine (C++)    
+🌱 now Learning : Unity3D (C#)
 
-👯 Unity3D (C#) 3D Game project ( Group of 2 ) 
 
 ## SimulFactory
 <img src="https://user-images.githubusercontent.com/26586104/149724911-88f90334-8e08-44ee-b11b-35a312c9cc86.png"  width="100" height="100"/>
 
+👯 Unity3D (C#) 3D Game project ( Group of 3 ) 
 
 #### 2021-12-27 ~   
 #### First Demo (2022-01-17) : https://mywatt.itch.io/simuldrone
