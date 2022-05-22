@@ -14,6 +14,13 @@
 
 <br/>
 
+👯 Unity3D (C#) 3D Game project ( Group of 3 ) 
+
+#### 2022-05-22 ~   
+##### Mainly used program language : C#, Unity3D
+
+<br/>
+
 #### Solo Project - Unity3D - 2Dgame
 #### Github Link : https://github.com/padamu1/Unity_BounceBall.git
 #### 2022-02-21 ~
@@ -21,9 +28,6 @@
 
 <br/>
 
-#### Solo Project - C++ Tetris
-#### Start at march
-##### Mainly used program language : C++
 ---
 
 ### Unity3D Study Link 🔭
