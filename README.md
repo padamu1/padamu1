@@ -4,7 +4,7 @@
 ## SimulFactory
 <img src="https://user-images.githubusercontent.com/26586104/149724911-88f90334-8e08-44ee-b11b-35a312c9cc86.png"  width="100" height="100"/>
 
-👯 Unity3D (C#) 3D Game project ( Group of 3 ) 
+👯 Unity3D (C#) 3D Game project ( Group of 3 ) - SimulDrone
 
 #### 2021-12-27 ~   
 #### First Demo (2022-01-17) : https://mywatt.itch.io/simuldrone
@@ -14,7 +14,7 @@
 
 <br/>
 
-👯 Unity3D (C#) 3D Game project ( Group of 3 ) 
+👯 Unity3D (C#) 3D Game project ( Group of 3 ) - VR Project
 
 #### 2022-05-22 ~   
 ##### Mainly used program language : C#, Unity3D
