@@ -1,3 +1,5 @@
+🔭 Skill : C#, Node.js, Unity, MySql, MongoDB, Photon
+
 🌱 now Learning : Unity3D (C#)
 
 
@@ -34,7 +36,7 @@
 
 ---
 
-### Unity3D Study Link 🔭
+### Unity3D Study Link 
 * Canvas Manage : [Link][canvasLink] 
 * Life Cycle : [Link][lifeLink]
 * Object Connect : [Link][connectLink]
