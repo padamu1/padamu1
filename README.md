@@ -63,7 +63,7 @@
 
 ### ProjectV (Team of 2) — 2D
 
-![2025-07-1611-27-12-ezgif com-optimize](https://github.com/user-attachments/assets/b355f0b2-62b3-4799-9b4d-4099d84c3773)
+![2025-09-1901-30-08-ezgif com-optimize](https://github.com/user-attachments/assets/d33e0db9-6b0f-424c-9b3d-f03560d9fbdf)
 
 - **Start**: 2025-07-21
 - **End**: 2025-09-14
