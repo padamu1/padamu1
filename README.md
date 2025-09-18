@@ -7,7 +7,7 @@
 
 ### 🗂️ Timeline
 - **Devsisters - Kingdom Studio** · *Game Client Programmer*  `2025.09.22 ~ Present`
-- **Z5 Games** · *Game Client Programmer & C# Server Programmer*  `2022.05.02 ~ 2025.09.19`
+- **Z5** · *Game Client Programmer (Sub : C# Server Programmer)*  `2022.05.02 ~ 2025.09.19`
 
 
 ---
