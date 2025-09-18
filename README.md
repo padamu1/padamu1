@@ -24,60 +24,57 @@
 ![Role](https://img.shields.io/badge/Role-Owner%20%7C%20Lead%20Client%20Prog.-orange)
 ![Founded](https://img.shields.io/badge/Founded-2021-lightgrey)
 
+&nbsp;
+
 <img src="https://user-images.githubusercontent.com/26586104/149724911-88f90334-8e08-44ee-b11b-35a312c9cc86.png" width="100" height="100"/>
 
-### SimulDrone (Team of 3) — Unity3D (C#), 3D
+&nbsp;
+
+### SimulDrone (Team of 3) — 3D
+
+<img width="2540" height="1382" alt="스크린샷 2025-02-21 232406" src="https://github.com/user-attachments/assets/e2539b78-06c7-49a1-9362-174bf1a33608" />
+
 - **Start**: 2021-12-27  
+- **End**: 2022-03-04  
 - **First Demo** (2022-01-17): https://mywatt.itch.io/simuldrone  
 - **Official Release** (2022-02-18): https://store.steampowered.com/app/1892500/SimulDrone/  
 - **First Update**: 2022-03-04  
 - **Stack**: C#, Unity3D
 
-<br/>
+&nbsp;
 
-### VR Project (Team of 3) — Unity3D (C#), 3D
-- **Start**: 2022-05-22  
+### VR Project (Team of 3) — 3D
+
+<img width="698" height="482" alt="스크린샷 2025-05-25 165035" src="https://github.com/user-attachments/assets/94921f8a-c529-4fca-83ec-6f7f4090d5f1" />
+
+- **Start**: 2022-05-22
+- **End**: 2025-02-24
 - **Stack**: C#, Unity3D
 
-<br/>
+&nbsp;
 
-### Solo Project — Unity3D (C#), 2D
+### Solo Project (Team of 1) — 2D
 - **Repo**: https://github.com/padamu1/Unity_BounceBall.git  
-- **Start**: 2022-02-21  
+- **Start**: 2022-02-21
+- **End**: 2022-02-24
 - **Stack**: C#, Unity3D
 
+&nbsp;
+
+### ProjectV (Team of 2) — 2D
+
+![2025-07-1611-27-12-ezgif com-optimize](https://github.com/user-attachments/assets/b355f0b2-62b3-4799-9b4d-4099d84c3773)
+
+- **Start**: 2025-07-21
+- **End**: 2025-09-14
+- **Stack**: C#, Unity3D
 ---
 
-
-### Unity3D Study Link 
-* Canvas Manage : [Link][canvasLink] 
-* Life Cycle : [Link][lifeLink]
-* Object Connect : [Link][connectLink]
-
-<br/>
+&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padamu1&show_icons=true&theme=white)
 
 <br />
-
-### 💬💬
-### Mywatt NAVER Blog : [LINK][naverLink]
-### Mywatt Tistroy Blog : [LINK][tistory]
-### Mywatt Youtube : [LINK][youtube]
----
-
-<br />
-
-
-
-[naverLink]: https://blog.naver.com/padamu1
-[tistory]: https://pamechanic.tistory.com/
-[youtube]: https://www.youtube.com/channel/UCbYFX84E_7M1N-NJsF6zBGg/featured
-[canvasLink]:https://blog.naver.com/padamu1/222602959312
-[lifeLink]:https://blog.naver.com/padamu1/222606713864
-[connectLink]:https://blog.naver.com/padamu1/222612976964
-
-
 
 <!--
 **padamu1/padamu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
