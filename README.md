@@ -1,40 +1,53 @@
-🔭 Skill : C#, Node.js, Unity, MySql, MongoDB, Photon
+# Career
+<p>
+  <img src="https://img.shields.io/badge/Role-Game%20Client%20Programmer-blue">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20yrs-lightgrey">
+  <img src="https://img.shields.io/badge/Focus-Unity%20(C%23)%20%7C%20Performance%20%7C%20Tooling-orange">
+</p>
 
-🌱 now Learning : Unity3D (C#)
+### 🗂️ Timeline
+- **Devsisters - Kingdom Studio** · *Game Client Programmer*  `2025.09.22 ~ Present`
+- **Z5 Games** · *Game Client Programmer & C# Server Programmer*  `2022.05.02 ~ 2025.09.19`
 
-
-## SimulFactory
-<img src="https://user-images.githubusercontent.com/26586104/149724911-88f90334-8e08-44ee-b11b-35a312c9cc86.png"  width="100" height="100"/>
-
-👯 Unity3D (C#) 3D Game project ( Group of 3 ) - SimulDrone
-
-#### 2021-12-27 ~   
-#### First Demo (2022-01-17) : https://mywatt.itch.io/simuldrone
-#### Official Release (2022-02-18) : https://store.steampowered.com/app/1892500/SimulDrone/
-##### First Update : 2022-03-04
-##### Mainly used program language : C#, Unity3D
-
-<br/>
-<br/>
-<br/>
-
-👯 Unity3D (C#) 3D Game project ( Group of 3 ) - VR Project
-
-#### 2022-05-22 ~   
-##### Mainly used program language : C#, Unity3D
-
-<br/>
-<br/>
-<br/>
-
-#### Solo Project - Unity3D - 2Dgame
-#### Github Link : https://github.com/padamu1/Unity_BounceBall.git
-#### 2022-02-21 ~
-#### Mainly used program language : C#, Unity3D
-
-<br/>
 
 ---
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+# SimulFactory
+
+![Personal Team](https://img.shields.io/badge/Team-Personal%20(Indie)-blue)
+![Team Size](https://img.shields.io/badge/Team%20Size-3-brightgreen)
+![Role](https://img.shields.io/badge/Role-Owner%20%7C%20Lead%20Client%20Prog.-orange)
+![Founded](https://img.shields.io/badge/Founded-2021-lightgrey)
+
+<img src="https://user-images.githubusercontent.com/26586104/149724911-88f90334-8e08-44ee-b11b-35a312c9cc86.png" width="100" height="100"/>
+
+### SimulDrone (Team of 3) — Unity3D (C#), 3D
+- **Start**: 2021-12-27  
+- **First Demo** (2022-01-17): https://mywatt.itch.io/simuldrone  
+- **Official Release** (2022-02-18): https://store.steampowered.com/app/1892500/SimulDrone/  
+- **First Update**: 2022-03-04  
+- **Stack**: C#, Unity3D
+
+<br/>
+
+### VR Project (Team of 3) — Unity3D (C#), 3D
+- **Start**: 2022-05-22  
+- **Stack**: C#, Unity3D
+
+<br/>
+
+### Solo Project — Unity3D (C#), 2D
+- **Repo**: https://github.com/padamu1/Unity_BounceBall.git  
+- **Start**: 2022-02-21  
+- **Stack**: C#, Unity3D
+
+---
+
 
 ### Unity3D Study Link 
 * Canvas Manage : [Link][canvasLink] 
