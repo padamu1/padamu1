@@ -6,7 +6,7 @@
 </p>
 
 ### 🗂️ Timeline
-- **Devsisters - Kingdom Studio** · *Game Client Programmer*  `2025.09.22 ~ `
+- **Devsisters - Studio Kingdom** · *Game Client Programmer*  `2025.09.22 ~ `
 - **Z5** · *Game Client Programmer (Sub : C# Server Programmer)*  `2022.05.02 ~ 2025.09.19`
 
 
