@@ -72,8 +72,6 @@
 
 &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padamu1&show_icons=true&theme=white)
-
 <br />
 
 <!--
