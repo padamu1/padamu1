@@ -6,13 +6,16 @@
 </p>
 
 ### 🗂️ Timeline
-- **Devsisters - Studio Kingdom** · *Kingdom Client Software Engineer*  `2025.09.22 ~ `
-- **Z5** · *Game Client Programmer (Sub : C# Server Programmer)*  `2022.05.02 ~ 2025.09.19`
 
+`2025.09.22 ~ ` <br />
+<img src="https://github.com/user-attachments/assets/9cabfac8-010e-4944-8920-7e7e06530cee" width="15" height="15"/>
+**Devsisters - Studio Kingdom** · *Kingdom Client Software Engineer* <br />
+
+`2022.05.02 ~ 2025.09.19` <br />
+**Z5** · *Game Client Programmer (Sub : C# Server Programmer)* 
 
 ---
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
